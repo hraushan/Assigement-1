@@ -1,0 +1,283 @@
+/* -----Nav bar section------ */
+
+.navbar {
+    padding: 15px 101px 13px 102px;
+    background-color: #ce0505;
+}
+
+.e,
+.login,
+.create-an-account {
+    display: inline-block;
+}
+
+.float-class {
+    float: right;
+}
+
+.e-section {
+    border: 1px solid #fff;
+    border-radius: 50px;
+    padding: 2px 12px 5px 16px;
+    font-family: sans-serif;
+    font-size: 33px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    background-color: #fff;
+}
+
+.login {
+    width: 43px;
+    height: 23px;
+    padding: 12px 26px 11px 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.create-an-account {
+    border: 2px solid #fff;
+    border-radius: 2px;
+    padding: 12px 14px 11px 15px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+/* ------heading Section------ */
+
+.content-section {}
+
+.heading {
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 1px 113px;
+    padding: 27px 0px 0px 0px;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+
+/* -------main Body section------ */
+
+
+/* -----vertical section-------- */
+
+.vertical {
+    display: inline-block;
+    width: 16%;
+    height: 682px;
+    margin: 27px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(151, 7, 218, 0.16);
+    background-color: #ffffff;
+}
+
+.Filters {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.Select-Location,
+.Cuisine,
+.Cost-for {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.select-perimeter {
+    width: 208px;
+    height: 35px;
+    margin: 11px 0 22px 1px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+
+.Common-text-price {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    color: #8c96ab;
+}
+
+.Sort {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+
+}
+
+/* ------horizontal section------  */
+#total-body {
+    background: #fbfbfb;
+    margin-top: -38px;
+}
+.content-section {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.Fort {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.shop-address {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+.CUISINES-COST-FOR-TWO {
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin: 17px 58px 0px 45px;
+}
+span {
+    font-size: 15px;
+}
+.Bakery-700 {
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.horizontal {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+}
+.horizontal-top {
+    display: block;
+    width: 794px;
+    height: 291px;
+    margin: 27px 154px 34px 45px;
+    box-shadow: 0 3px 6px 0 rgba(21, 10, 182, 0.16);
+    background-color: #ffffff;
+}
+.chilli-whole-top {}
+.chill-bakery {
+    display: inline-block;
+    height: 60%;
+}
+.chilli-img {
+    width: 120px;
+    height: 120px;
+    margin: 25px 1px 0px 41px;
+    border-radius: 23px;
+}
+.chilli-backery-contents {
+    display: inline-block;
+    vertical-align: top;
+    margin: 31px 60px;
+}
+hr {
+    width: 726.4px;
+    height: 0;
+    margin: 31px 34px -1px;
+    border: solid 1px #dedfe5;
+}
+.horizontal-bottom {
+    display: block;
+    vertical-align: bottom;
+    width: 794px;
+    height: 291px;
+    margin: 27px 154px 34px 45px;
+    box-shadow: 0 3px 6px 0 rgba(21, 10, 182, 0.16);
+    background-color: #ffffff;
+}
+.button-class {
+    width: 36px;
+    height: 36px;
+    margin: 0 12px;
+    padding: 5px 12px 3px 13px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;
+    background-color: #ffffff;
+}
+.button-div {
+    margin: 8% 0% 0% 22%;
+}
